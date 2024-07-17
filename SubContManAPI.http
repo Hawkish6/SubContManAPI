@@ -1,0 +1,6 @@
+@SubContManAPI_HostAddress = http://localhost:5163
+
+GET {{SubContManAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
